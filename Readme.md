@@ -12,7 +12,7 @@ A **Streamlit-based** web application that helps users find **affordable medicin
 ## 🔧 Installation
 
 1. **Clone the Repository**  
-   git clone https://github.com/uditbhatia26/space_con_hack.git
+   git clone https://github.com/GunjanPahwa/mediLAB.git
    cd space_con_hack
 
 2. **Install Requirements**
