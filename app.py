@@ -1,6 +1,6 @@
 import streamlit as st  
 
-# Page Configuration  
+# Page Configuration n
 st.set_page_config(
     page_title="mediLAB - AI Health Assistant", 
     page_icon="medilab-square.png", 
